@@ -19,6 +19,7 @@ import java.io.FileNotFoundException;
  * Wordle is owned by the New York Times.
  * 
  * @author Deborah A. Trytten
+ * @author prestonjones
  * @version 1.0
  *
  */
